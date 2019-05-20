@@ -1,0 +1,25 @@
+body{
+  background: rgb(245,245,245);
+  color: green;
+  font-size: 25px;
+  font-family: Courier;
+}
+h1{
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 60px;
+}
+h5 {
+  font-family: Courier;
+  color: purple;
+  font-weight: lighter;
+  font-size: 30px;
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
